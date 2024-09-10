@@ -29,9 +29,9 @@ The project assesses the feasibility of dam construction projects based on vario
 - **Dam 1** and **Dam 2** showed different patterns in the distribution of benefit-cost ratios, with one dam generally presenting a more favorable economic profile.
 - The analysis provided crucial insights into which dam project could potentially offer greater economic benefits.
 
-![image](https://github.com/user-attachments/assets/3750d3cc-55bf-4d26-becd-3e6747bff846)
+  ![image](https://github.com/user-attachments/assets/3750d3cc-55bf-4d26-becd-3e6747bff846)
 
-![image](https://github.com/user-attachments/assets/26d79430-cb2b-4c93-b49c-d7e563632783)
+  ![image](https://github.com/user-attachments/assets/26d79430-cb2b-4c93-b49c-d7e563632783)
 
 
 ## How to Run the Simulation
