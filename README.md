@@ -18,8 +18,9 @@ The project assesses the feasibility of dam construction projects based on vario
 
 ## Results
 - **Visualizations:** Benefit-cost ratios for each dam were visualized to display the range of possible outcomes.
-![image](https://github.com/user-attachments/assets/06a57637-be5d-4896-991c-dce2f761d544)
-![image](https://github.com/user-attachments/assets/5aa25bbf-cd19-4ad3-948e-0000d6f3ecea)
+  ![image](https://github.com/user-attachments/assets/06a57637-be5d-4896-991c-dce2f761d544)
+
+  ![image](https://github.com/user-attachments/assets/5aa25bbf-cd19-4ad3-948e-0000d6f3ecea)
 
 
 - **Statistical Comparison:** Analyzed and compared key statistics like minimum, maximum, mean, and median from the simulations to guide investment decisions.
@@ -27,6 +28,11 @@ The project assesses the feasibility of dam construction projects based on vario
 ## Key Findings
 - **Dam 1** and **Dam 2** showed different patterns in the distribution of benefit-cost ratios, with one dam generally presenting a more favorable economic profile.
 - The analysis provided crucial insights into which dam project could potentially offer greater economic benefits.
+
+![image](https://github.com/user-attachments/assets/3750d3cc-55bf-4d26-becd-3e6747bff846)
+
+![image](https://github.com/user-attachments/assets/26d79430-cb2b-4c93-b49c-d7e563632783)
+
 
 ## How to Run the Simulation
 1. Open the Excel file containing the simulation data.
@@ -39,7 +45,5 @@ The simulations indicate which dam might offer better economic benefits based on
 ## References
 - Triangular Probability Distributions & Random Number Generation (provided in the course module).
 
-## Contact Information
-- Rhea Thoppil - [Email](mailto:your-email@domain.com)
 
 Feel free to clone this repository to view and run the simulations for the dam projects.
